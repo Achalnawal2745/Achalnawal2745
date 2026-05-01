@@ -1,103 +1,75 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=ACHAL%20NAWAL&fontSize=70&animation=fadeIn&fontAlignY=40&desc=FUTURISTIC%20DEVELOPER%20%7C%20AI%20ARCHITECT&descAlignY=60&descSize=20" />
+</p>
+
 <div align="center">
-
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Achal!+%F0%9F%91%8B;Full+Stack+AI+Developer+%F0%9F%A4%96;Creative+UI%2FUX+Designer+%E2%9C%A8;Building+the+Future+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIBE-CODING-purple?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🛰️ SYSTEM ARCHITECTURE (About Me)
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" height="150" />
-
-```javascript
-const developer = {
-    name: "Achal",
-    role: "Full Stack AI Engineer",
-    location: "India 🇮🇳",
-    education: "Computer Science & Engineering",
-    passion: ["Artificial Intelligence", "Web3", "Premium UI"],
-    challenge: "Solving real-world problems with elegant code",
-    contact: "achal.dev@gmail.com"
-};
-
-// Currently building the future...
-while(alive) {
-    eat();
-    code();
-    sleep();
-}
-```
+| **Component** | **Status** | **Description** |
+| :--- | :--- | :--- |
+| **User** | `Achal` | Lead Developer & AI Enthusiast |
+| **Role** | `Full Stack` | Architecting high-performance systems |
+| **Current Focus** | `Learning` | Deep Learning & Agentic Workflows |
+| **Mission** | `Build` | Creating software that feels like magic |
+| **Contact** | `Signal` | achal.dev@gmail.com |
 
 ---
 
-## 🚀 Tech Stack & Arsenals
+## ⚡ TECH PROFICIENCY (Leveling)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achalnawal2745&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</p>
+
+### 🛠️ My Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,rust,go,docker,aws,github,vscode,figma,mongodb,postgres,postman&perline=8" />
+</p>
+
+---
+
+## 🐍 NEURAL NETWORK (Contribution Snake)
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,rust,go,docker,aws,github,vscode,figma,mongodb,postgres,postman)](https://skillicons.dev)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Achalnawal2745/Achalnawal2745/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Achalnawal2745/Achalnawal2745/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Achalnawal2745/Achalnawal2745/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
 
-## 📊 My Digital Footprint
+## 📊 PERFORMANCE METRICS
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Achalnawal2745&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Achalnawal2745&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achalnawal2745&layout=compact&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Achalnawal2745&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achalnawal2745&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72&area=true" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📡 FREQUENCY (Connect)
+
+<p align="center">
+  <a href="https://linkedin.com/in/achal-nawal">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:achal.dev@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Achalnawal2745/Achalnawal2745/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Achalnawal2745/Achalnawal2745/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Achalnawal2745/Achalnawal2745/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 📈 My Activity Pulse
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achalnawal2745&theme=tokyonight&hide_border=false&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ⚡️ Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/achal-nawal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:achal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Achalnawal2745&color=BD93F9&style=for-the-badge&label=DIGITAL+VISITORS)
-
-*"The best way to predict the future is to invent it." – Alan Kay*
-
+  <img src="https://komarev.com/ghpvc/?username=Achalnawal2745&color=58A6FF&style=flat-square&label=SYSTEM+VISITS" />
 </div>
