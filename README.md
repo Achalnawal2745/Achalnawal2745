@@ -11,22 +11,32 @@
 
 
 
-```javascript
-const achal = {
-    pronouns: "He/Him",
-    code: ["Javascript", "Python", "Rust", "C++"],
-    askMeAbout: ["Web Dev", "AI", "UI/UX", "Open Source"],
-    currentProject: "Building a high-end agentic workflow engine",
-    funFact: "I believe code should look as good as it functions"
-};
+### 📜 THE QUEST LOG
 
-// Continuous improvement loop
-while (true) {
-    think();
-    code();
-    improve();
-}
-```
+> **Current Objective:** Architecting autonomous AI agents and ultra-premium digital experiences.
+
+---
+
+#### 👤 CHARACTER SPECS
+- **Level:** 22 (Full-Stack Engineer)
+- **Class:** AI / Web Architect
+- **Hometown:** India 🇮🇳
+- **Traits:** High Creativity, Infinite Loop Coder, Pixel Perfectionist
+
+---
+
+#### ⚔️ SKILL MASTERIES
+- **Primary:** JavaScript, Python, Rust, C++
+- **Secondary:** Distributed Systems, UI/UX Design, Cloud Architecture
+- **Passive Ability:** "Aesthetic Eye" — All code output must look beautiful.
+
+---
+
+#### 🛡️ ACTIVE MISSIONS
+- [ ] Mastering Large Language Model Orchestration
+- [ ] Building a Decentralized Future
+- [/] Polishing the Ultimate GitHub Profile
+
 
 ---
 
