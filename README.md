@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0F172A,100:1E293B&height=250&section=header&text=ACHAL%20NAWAL&fontSize=75&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=Computer%20Engineering%20%40%20Thapar%20%7C%20AI%20and%20Full-Stack&descAlignY=62&descAlign=50&descColor=E2E8F0&descSize=22&stroke=58A6FF&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,22&height=250&section=header&text=ACHAL%20NAWAL&fontSize=80&fontAlignY=40&animation=fadeIn&desc=AI%20and%20Full-Stack%20Engineer&descAlignY=65&descSize=25&fontColor=ffffff" width="100%" />
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Computer+Engineering+%40+Thapar+Institute+%F0%9F%8E%93;Building+AI+%26+RAG+Based+Web+Apps+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+AI+Developer+%E2%9A%A1)](https://git.io/typing-svg)
+<br/>
 
-</div>
+<a href="https://www.linkedin.com/in/achal-nawal-102021286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=achalnawal2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
----
+<br/>
+<br/>
 
-## 👋 About Me
+<!-- Terminal Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=850&lines=%3E+_Hello%2C+I'm+Achal.;%3E+_Computer+Engineering+%40+Thapar+Institute.;%3E+_Architecting+AI+%26+RAG+Systems.;%3E+_Building+Full-Stack+Applications.)](https://git.io/typing-svg)
 
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" />
 </div>
 
 <br>
@@ -72,15 +70,15 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Achalnawal2745&theme=tokyonight" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Achalnawal2745&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Achalnawal2745&theme=radical" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Achalnawal2745&theme=radical" />
 
 </div>
 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Achalnawal2745&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Achalnawal2745&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
@@ -104,26 +102,11 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achalnawal2745&theme=tokyonight&hide_border=false&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achalnawal2745&theme=radical&hide_border=false&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
-
-## 🔗 Connect with Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/achal-nawal-102021286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=achalnawal2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Achalnawal2745&color=58A6FF&style=for-the-badge&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=Achalnawal2745&color=FE428E&style=for-the-badge&label=VISITORS)
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
