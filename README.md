@@ -19,13 +19,13 @@
 
 > *“I don't just write code; I craft digital experiences.”*
 
-I'm a passionate Developer from India 🇮🇳 who thrives on turning complex problems into elegant, scalable solutions. Whether I'm diving deep into **AI algorithms**, designing **sleek Web Interfaces**, or optimizing **backend architecture**, I'm always chasing the next challenge.
+I'm a Computer Engineering student at **Thapar Institute of Engineering and Technology** from India 🇮🇳. I specialize in building AI-powered applications, RAG-based conversational systems, and real-time computer vision projects.
 
 ### ⚡ Quick Facts
-- 🔭 **Current Focus:** Full-Stack Web Development & Artificial Intelligence.
-- 🌱 **Currently Learning:** Deep Learning Models & Advanced System Design.
-- 💡 **Philosophy:** Build things that matter, and make them look good.
-- ☕ **Fuel:** Dark Roast Coffee, Lo-Fi Beats, and Late Night Coding.
+- 🔭 **Experience:** AI/ML & Cybersecurity Research Intern at the **University of Queensland**.
+- 🌱 **Currently Learning:** Adversarial Training, Deepfake Detection, and Large Language Models.
+- 💻 **Core Tech:** Python, C++, React, and building robust Backend APIs.
+- 🎓 **Education:** B.E. in Computer Engineering (CGPA: 8.53/10).
 
 
 ---
@@ -34,9 +34,23 @@ I'm a passionate Developer from India 🇮🇳 who thrives on turning complex pr
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,rust,go,docker,aws,github,vscode,figma,mongodb,postgres,postman&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nodejs,fastapi,flask,pytorch,opencv,postgres,mysql,github,vscode&perline=8)](https://skillicons.dev)
 
 </div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" /> Experience & Projects
+
+### 🔬 Experience
+**AI/ML & Cybersecurity Research Intern | University of Queensland** *(July 2025 – Dec 2025)*
+- Implemented adversarial training for the HAMMER multimodal deepfake detection model using CNN-based generators.
+- Improved model robustness against image perturbations evaluated via AUC, EER, and IoU metrics.
+
+### 🚀 Featured Projects
+- **ChatFusion** - Multi-source RAG Knowledge Workspace. Built with Flask, ChromaDB, Sentence Transformers, and Gemini API to enable conversational querying across YouTube, PDFs, and audio.
+- **FloatChat** - ARGO Ocean Intelligence System. Developed a full-stack system (FastAPI, Streamlit, PostgreSQL) for natural language querying of oceanographic float data.
+- **DrawPad** - Hand Gesture Controlled Drawing App. Created a real-time computer vision application using OpenCV and MediaPipe for touch-free drawing and UI control.
 
 ---
 
