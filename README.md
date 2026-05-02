@@ -41,36 +41,36 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 
 ### 💻 Languages
 <br/>
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-b44fff?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00ff9f?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00eaff?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-ff2d78?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-b44fff?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Python-b44fff?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-00ff9f?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C-00eaff?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/HTML5-ff2d78?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-b44fff?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 ### 🧠 AI & Machine Learning
 <br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-b44fff?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-00ff9f?style=for-the-badge&logo=tensorflow&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-00eaff?style=for-the-badge&logo=opencv&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-ff2d78?style=for-the-badge&logo=google&logoColor=white)
+<img src="https://img.shields.io/badge/PyTorch-b44fff?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-00ff9f?style=for-the-badge&logo=tensorflow&logoColor=black" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/OpenCV-00eaff?style=for-the-badge&logo=opencv&logoColor=black" alt="OpenCV" />
+<img src="https://img.shields.io/badge/MediaPipe-ff2d78?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
 
 ### ⚙️ Backend & Databases
 <br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-00ff9f?style=for-the-badge&logo=fastapi&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-b44fff?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-00eaff?style=for-the-badge&logo=node.js&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff2d78?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-b44fff?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/FastAPI-00ff9f?style=for-the-badge&logo=fastapi&logoColor=black" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Flask-b44fff?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Node.js-00eaff?style=for-the-badge&logo=node.js&logoColor=black" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-ff2d78?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-b44fff?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
 ### 🛠️ Frameworks & Tools
 <br/>
-![React](https://img.shields.io/badge/React-00ff9f?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-00eaff?style=for-the-badge&logo=docker&logoColor=black)
-![Git](https://img.shields.io/badge/Git-b44fff?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-ff2d78?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-00ff9f?style=for-the-badge&logo=postman&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-00eaff?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+<img src="https://img.shields.io/badge/React-00ff9f?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Docker-00eaff?style=for-the-badge&logo=docker&logoColor=black" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-b44fff?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-ff2d78?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Postman-00ff9f?style=for-the-badge&logo=postman&logoColor=black" alt="Postman" />
+<img src="https://img.shields.io/badge/VSCode-00eaff?style=for-the-badge&logo=visual-studio-code&logoColor=black" alt="VSCode" />
 
 </div>
 
@@ -150,3 +150,4 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 *"Code is like humor. When you have to explain it, it's bad."*
 
 </div>
+
