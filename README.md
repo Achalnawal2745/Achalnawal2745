@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=250&section=header&text=ACHAL%20NAWAL&fontSize=75&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=Computer%20Engineering%20%40%20Thapar%20%7C%20AI%20and%20Full-Stack&descAlignY=62&descAlign=50&descColor=C9D1D9&descSize=22&stroke=30363D&strokeWidth=1" width="100%"/>
+<img src="assets/banner.png" alt="Futuristic AI Profile Banner" width="100%" style="border-radius: 15px;" />
+
+<br>
+
+<h1>ACHAL NAWAL</h1>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Computer+Engineering+%40+Thapar+Institute+%F0%9F%8E%93;Building+AI+%26+RAG+Based+Web+Apps+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+AI+Developer+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Computer+Engineering+%40+Thapar+Institute+%F0%9F%8E%93;Building+AI+%26+RAG+Based+Web+Apps+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+AI+Developer+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
