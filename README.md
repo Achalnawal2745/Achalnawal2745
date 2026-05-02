@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=250&section=header&text=ACHAL%20NAWAL&fontSize=85&fontColor=39d353&animation=twinkling&fontAlignY=38&desc=Computer%20Engineering%20%40%20Thapar%20%7C%20AI%20and%20Full-Stack&descAlignY=62&descAlign=50&descColor=C9D1D9&descSize=22&stroke=39d353&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=ACHAL%20NAWAL&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Engineering%20%40%20Thapar%20%7C%20AI%20and%20Full-Stack&descAlignY=62&descAlign=50&descColor=C9D1D9&descSize=22" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39d353&center=true&vCenter=true&width=850&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Computer+Engineering+%40+Thapar+Institute+%F0%9F%8E%93;Building+AI+%26+RAG+Based+Web+Apps+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+AI+Developer+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Computer+Engineering+%40+Thapar+Institute+%F0%9F%8E%93;Building+AI+%26+RAG+Based+Web+Apps+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+AI+Developer+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -72,8 +72,8 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Achalnawal2745&theme=vue-dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Achalnawal2745&theme=vue-dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Achalnawal2745&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Achalnawal2745&theme=github_dark" />
 
 </div>
 
@@ -104,7 +104,7 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achalnawal2745&theme=github-dark&hide_border=false&area=true&color=39d353&line=39d353&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achalnawal2745&theme=github-dark&hide_border=false&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -123,7 +123,7 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Achalnawal2745&color=39d353&style=for-the-badge&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=Achalnawal2745&color=58A6FF&style=for-the-badge&label=VISITORS)
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
