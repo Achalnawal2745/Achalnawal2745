@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=150&section=header&text=ACHAL%20NAWAL&fontSize=80&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=220&section=header&text=Achal%20Nawal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full-Stack%20Engineer%20%7C%20Computer%20Engineering%20%40%20Thapar&descAlignY=55&descAlign=50&descColor=c0caf5&descSize=18&stroke=7aa2f7&strokeWidth=2" width="100%"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Building+AI+%26+RAG+Based+Web+Apps+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+AI+Developer+%E2%9A%A1)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+%40+Thapar+Institute;AI+%2F+ML+Researcher+%F0%9F%A4%96;Full-Stack+Web+%26+Backend+Dev+%E2%9A%A1;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -38,7 +39,17 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nodejs,fastapi,flask,pytorch,opencv,postgres,mysql,github,vscode&perline=8)](https://skillicons.dev)
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,py,js,html,css" />
+
+### 🧠 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow" />
+
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,postgres,mysql" />
+
+### 🛠️ Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=react,git,github,vscode,docker,postman" />
 
 </div>
 
