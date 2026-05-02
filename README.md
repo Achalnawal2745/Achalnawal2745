@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:002244,60:0066cc,100:00e5ff&height=200&section=header&text=Achal%20Nawal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%40%20Thapar%20%7C%20AI%20and%20Full-Stack&descAlignY=55&descAlign=50&descColor=c9d1d9&descSize=16&stroke=00e5ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:002244,60:0066cc,100:00e5ff&height=200&section=header&text=Achal%20Nawal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%40%20Thapar%20%7C%20AI-Based%20Web%20Apps&descAlignY=55&descAlign=50&descColor=c9d1d9&descSize=16&stroke=00e5ff&strokeWidth=2" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Computer+Engineering+%40+Thapar+Institute+%F0%9F%8E%93;Building+AI+%26+RAG+Based+Web+Apps+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+AI+Developer+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Computer+Engineering+%40+Thapar+Institute+%F0%9F%8E%93;Developing+AI-Based+Web+Apps+%F0%9F%9A%80;Building+AI+Agents+%26+RAG+Systems+%F0%9F%A4%96;Full-Stack+AI+Developer+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo2aDF1anZuMmJmcXVyMjJsbWI2NGp2ZDZjdXgybmppbXdoY3gwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zAo1Zb7X4Zci1Bmd2z/giphy.gif" width="180" />
 </div>
 
 <br>
@@ -150,4 +150,3 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 *"Code is like humor. When you have to explain it, it's bad."*
 
 </div>
-
