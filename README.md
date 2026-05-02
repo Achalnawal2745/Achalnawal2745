@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Futuristic AI Profile Banner" width="100%" style="border-radius: 15px;" />
+<img src="banner.png" alt="Futuristic AI Profile Banner" width="100%" style="border-radius: 15px;" />
 
 <br>
 
