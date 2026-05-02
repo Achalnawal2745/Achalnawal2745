@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=220&section=header&text=Achal%20Nawal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Full-Stack%20Engineer%20%7C%20Computer%20Engineering%20%40%20Thapar&descAlignY=55&descAlign=50&descColor=c0caf5&descSize=18&stroke=7aa2f7&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0F172A,100:1E293B&height=250&section=header&text=ACHAL%20NAWAL&fontSize=75&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=Computer%20Engineering%20%40%20Thapar%20%7C%20AI%20and%20Full-Stack&descAlignY=62&descAlign=50&descColor=E2E8F0&descSize=22&stroke=58A6FF&strokeWidth=1" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+%40+Thapar+Institute;AI+%2F+ML+Researcher+%F0%9F%A4%96;Full-Stack+Web+%26+Backend+Dev+%E2%9A%A1;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Computer+Engineering+%40+Thapar+Institute+%F0%9F%8E%93;Building+AI+%26+RAG+Based+Web+Apps+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+AI+Developer+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
