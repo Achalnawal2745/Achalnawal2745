@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=150&section=header&text=ACHAL%20NAWAL&fontSize=80&animation=fadeIn" />
+
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Building+AI+%26+RAG+Based+Web+Apps+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+AI+Developer+%E2%9A%A1)](https://git.io/typing-svg)
 
@@ -50,7 +52,7 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 - Improved model robustness against image perturbations evaluated via AUC, EER, and IoU metrics.
 
 ### 🚀 Featured Projects
-- **ChatFusion** - Multi-source RAG Knowledge Workspace. Built with Flask, ChromaDB, Sentence Transformers, and Gemini API to enable conversational querying across YouTube, PDFs, and audio.
+- **ChatFusion** - Multi-source RAG Knowledge Workspace. [🚀 Live Demo](https://achalnawal2745-chatfusion.hf.space/) | Built with Flask, ChromaDB, Sentence Transformers, and Gemini API to enable conversational querying across YouTube, PDFs, and audio.
 - **FloatChat** - ARGO Ocean Intelligence System. Developed a full-stack system (FastAPI, Streamlit, PostgreSQL) for natural language querying of oceanographic float data.
 - **DrawPad** - Hand Gesture Controlled Drawing App. Created a real-time computer vision application using OpenCV and MediaPipe for touch-free drawing and UI control.
 
@@ -60,8 +62,8 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Achalnawal2745&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achalnawal2745&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Achalnawal2745&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Achalnawal2745&theme=tokyonight" />
 
 </div>
 
