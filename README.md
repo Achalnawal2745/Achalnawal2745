@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Achal!+%F0%9F%91%8B;Full+Stack+AI+Developer+%F0%9F%A4%96;Building+the+Future+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Building+cool+things+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,31 +11,21 @@
 
 
 
-### 📜 THE QUEST LOG
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" />
+</div>
 
-> **Current Objective:** Architecting autonomous AI agents and ultra-premium digital experiences.
+<br>
 
----
+> *“I don't just write code; I craft digital experiences.”*
 
-#### 👤 CHARACTER SPECS
-- **Level:** 22 (Full-Stack Engineer)
-- **Class:** AI / Web Architect
-- **Hometown:** India 🇮🇳
-- **Traits:** High Creativity, Infinite Loop Coder, Pixel Perfectionist
+I'm a passionate Developer from India 🇮🇳 who thrives on turning complex problems into elegant, scalable solutions. Whether I'm diving deep into **AI algorithms**, designing **sleek Web Interfaces**, or optimizing **backend architecture**, I'm always chasing the next challenge.
 
----
-
-#### ⚔️ SKILL MASTERIES
-- **Primary:** JavaScript, Python, Rust, C++
-- **Secondary:** Distributed Systems, UI/UX Design, Cloud Architecture
-- **Passive Ability:** "Aesthetic Eye" — All code output must look beautiful.
-
----
-
-#### 🛡️ ACTIVE MISSIONS
-- [ ] Mastering Large Language Model Orchestration
-- [ ] Building a Decentralized Future
-- [/] Polishing the Ultimate GitHub Profile
+### ⚡ Quick Facts
+- 🔭 **Current Focus:** Full-Stack Web Development & Artificial Intelligence.
+- 🌱 **Currently Learning:** Deep Learning Models & Advanced System Design.
+- 💡 **Philosophy:** Build things that matter, and make them look good.
+- ☕ **Fuel:** Dark Roast Coffee, Lo-Fi Beats, and Late Night Coding.
 
 
 ---
@@ -96,8 +86,8 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/achal-nawal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:achal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/achal-nawal-102021286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:achalnawal2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
