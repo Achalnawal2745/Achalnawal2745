@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Building+AI+%26+RAG+Based+Web+Apps+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+AI+Developer+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Building+AI+%26+RAG+Based+Web+Apps+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+AI+Developer+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,8 +17,10 @@
 
 <br>
 
-> *“Building intelligent systems and elegant digital experiences that solve real-world problems.”*
-> *“I don't just write code; I craft digital experiences.”*
+<div align="center">
+  <h3><i>“Building intelligent systems that solve real-world problems.”</i></h3>
+  <p><i>“I don't just write code; I craft digital experiences.”</i></p>
+</div>
 
 I'm a Computer Engineering student at **Thapar Institute of Engineering and Technology** from India 🇮🇳. I specialize in developing full-stack AI applications, RAG-based conversational systems, and real-time computer vision projects.
 
@@ -101,7 +103,7 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 <div align="center">
 
 <a href="https://www.linkedin.com/in/achal-nawal-102021286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:achalnawal2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=achalnawal2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
