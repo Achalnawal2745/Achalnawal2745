@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Building+AI+%26+Web+Apps+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+AI+Engineer+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Building+AI+%26+RAG+Based+Web+Apps+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+AI+Developer+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,8 @@
 
 <br>
 
-> *“Building intelligent systems and elegant digital experiences.”*
+> *“Building intelligent systems and elegant digital experiences that solve real-world problems.”*
+> *“I don't just write code; I craft digital experiences.”*
 
 I'm a Computer Engineering student at **Thapar Institute of Engineering and Technology** from India 🇮🇳. I specialize in developing full-stack AI applications, RAG-based conversational systems, and real-time computer vision projects.
 
