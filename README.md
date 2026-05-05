@@ -29,7 +29,7 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 
 ### ⚡ Quick Facts
 - 🔭 **Experience:** AI/ML & Cybersecurity Research Intern at the **University of Queensland**.
-- 💻 **Core Tech:** Python, C++, React, and building robust Backend APIs.
+- 💻 **Core Tech:** AI/ML, RAG Systems, Computer Vision, and Full-Stack AI.
 - 🎓 **Education:** B.E. in Computer Engineering.
 
 
