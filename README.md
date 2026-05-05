@@ -22,7 +22,6 @@
 
 <div align="center">
   <h3><i>“Building intelligent systems that solve real-world problems.”</i></h3>
-  <p><i>“I don't just write code; I craft digital experiences.”</i></p>
 </div>
 
 I'm a Computer Engineering student at **Thapar Institute of Engineering and Technology** from India 🇮🇳. I specialize in developing full-stack AI applications, RAG-based conversational systems, and real-time computer vision projects.
