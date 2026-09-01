@@ -1,10 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:002244,60:0066cc,100:00e5ff&height=200&section=header&text=Achal%20Nawal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%40%20Thapar%20%7C%20AI-Based%20Web%20Apps&descAlignY=55&descAlign=50&descColor=c9d1d9&descSize=16&stroke=00e5ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:002244,60:0066cc,100:00e5ff&height=200&section=header&text=Achal%20Nawal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SDE%20%26%20GenAI%20Systems%20Engineer%20%7C%20Thapar%20Institute&descAlignY=55&descAlign=50&descColor=c9d1d9&descSize=16&stroke=00e5ff&strokeWidth=2" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Computer+Engineering+%40+Thapar+Institute+%F0%9F%8E%93;Developing+AI-Based+Web+Apps+%F0%9F%9A%80;Building+AI+Agents+%26+RAG+Systems+%F0%9F%A4%96;Full-Stack+AI+Developer+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Hello%2C+myself+Achal+%F0%9F%91%8B;Software+Development+Engineer+(SDE)+%F0%9F%92%BB;GenAI+Systems+Architect+%F0%9F%A4%96;Building+RAG+%26+Agentic+Pipelines+%F0%9F%9A%80;Real-Time+Multimodal+AI+Engineer+%E2%9A%A1" alt="Typing SVG" />
 </a>
+
+<br>
+
+<a href="https://achalnawal2745.github.io/achal-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-achalnawal2745.github.io-00E5FF?style=for-the-badge&labelColor=0d1117" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/achal-nawal-102021286/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:achalnawal2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📌 Quick Nav
+<div align="center">
+
+[About](#-about-me) · [Experience](#-experience) · [Projects](#-featured-projects) · [Tech Stack](#-tech-stack) · [Publications](#-publications--certifications) · [GitHub Stats](#-github-analytics) · [Connect](#-connect-with-me)
 
 </div>
 
@@ -19,17 +40,186 @@
 <br>
 
 <div align="center">
-  <h3><i>“Building intelligent systems that solve real-world problems.”</i></h3>
+  <h3><i>"Building intelligent systems that solve real-world problems — not just prompting a model, but engineering the pipelines around it."</i></h3>
 </div>
 
-I'm a Computer Engineering student at **Thapar Institute of Engineering and Technology**, Patiala, India 🇮🇳 . I specialize in building full-stack AI applications, RAG-based conversational systems, cloud-based AI workflows, and real-time computer vision projects.
+I'm a Computer Engineering student at **Thapar Institute of Engineering and Technology**, Patiala, India 🇮🇳, working in the space between **Software Development Engineering (SDE)** and **production GenAI systems** — asynchronous pipelines, agentic workflows, RAG architectures, and low-latency backends.
+
+👉 Full case studies, live demos, and an interactive terminal walkthrough of everything below live on my portfolio: **[achalnawal2745.github.io/achal-portfolio](https://achalnawal2745.github.io/achal-portfolio/)**
 
 ### ⚡ Quick Facts
 - 💼 **Currently:** AI Applications Development Intern @ **AmberFlux EdgeAI Pvt. Ltd.** (May 2026 – Jul 2026)
-- 🔭 **Past Experience:** AI/ML & Cybersecurity Research Intern @ **University of Queensland** (Jul 2025 – Dec 2025)
-- 💻 **Core Tech:** AI/ML, RAG Systems, Computer Vision, Azure AI, and Full-Stack Development
-- 🎓 **Education:** B.E. in Computer Engineering, Thapar Institute of Engineering and Technology
-- 📄 **Certifications:** Machine Learning with Python (Coursera), Data Structures & Algorithms in C++ (Udemy)
+- 🔬 **Past Experience:** AI/ML & Cybersecurity Research Intern @ **University of Queensland** (Jul 2025 – Dec 2025)
+- 📄 **Published:** Co-author, *Adv-HAMMER: Adversarially Robust Multimodal Fake Detection with Perturbation-Aware Training* — accepted at **PP-MisDet @ CVPR 2026**
+- 🧑‍🏫 **Open Source:** Mentor, GirlScript Summer of Code (GSSoC) 2025
+- 🎓 **Education:** B.E. Computer Engineering, Thapar Institute of Engineering and Technology (CGPA 8.6/10)
+- 🟢 **Status:** Open for SDE / GenAI Systems roles
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="100%">
+
+### 🤖 AI Applications Development Intern | AmberFlux EdgeAI Pvt. Ltd.
+*May 2026 – Jul 2026*
+`Python` · `FastAPI` · `Azure OpenAI` · `Azure Document Intelligence` · `Azure Service Bus` · `NetworkX` · `RapidFuzz`
+
+- Built AI-powered document extraction workflows combining Azure Document Intelligence with GPT-based pipelines for automated engineering document processing.
+- Built parts of a concurrent, multi-threaded pipeline processing PDFs, emails, and technical drawings at scale, applying business-rule and data-quality checks.
+- Implemented FastAPI backend services and Azure Service Bus workflows for end-to-end pipeline orchestration.
+- Built a graph- and fuzzy-matching automation system (NetworkX + RapidFuzz) paired with LLM classification to cut down manual reconciliation in project/email-matching workflows.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🔬 AI/ML & Cybersecurity Research Intern | University of Queensland
+*Jul 2025 – Dec 2025 · via Thapar Institute of Engineering & Technology*
+`PyTorch` · `Adversarial ML` · `CNNs` · `Multimodal Detection`
+
+- Implemented adversarial training for the **HAMMER** multimodal deepfake detection model, using a CNN-based generator to craft image perturbations.
+- Improved model robustness by training on mixed clean and adversarial samples, evaluated via AUC, EER, and IoU metrics.
+- Co-authored **"Adv-HAMMER: Adversarially Robust Multimodal Fake Detection with Perturbation-Aware Training"** — accepted at PP-MisDet @ **CVPR 2026**.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ TITAN 2.0
+*Real-time multimodal desktop AI assistant*
+
+`Python` `Gemini Live API` `WebSockets` `PyQt6` `OpenCV` `Docling`
+
+Full-duplex voice assistant with sub-50ms audio streaming, biometric (face + voice) security, autonomous self-writing skill sandbox, and system-wide automation.
+
+<details>
+<summary>See more</summary>
+<br>
+
+- Full-duplex voice interaction with GMM speaker verification and a system-wide instant-stop interrupt hook.
+- Bidirectional WebSocket bridge to a Chrome extension for browser automation with timeout recovery.
+- Autonomous skill-execution framework — TITAN writes, tests, and self-heals its own Python tools with AST-based safety checks.
+- Prompt-injection detection and sensitive-action sanitization guardrails.
+
+</details>
+
+**[GitHub ↗](https://github.com/Achalnawal2745/titan2.0)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 ChatFusion
+*Multi-source RAG knowledge workspace*
+
+`Python` `Flask` `RAG` `ChromaDB` `Sentence Transformers` `Whisper` `Gemini API`
+
+Conversational querying and synthesis across YouTube videos, PDFs, and audio — fully local embeddings + transcription for private, cost-free retrieval.
+
+<details>
+<summary>See more</summary>
+<br>
+
+- Cross-document and cross-modal retrieval with synthesis over multiple sources at once.
+- Local-first: on-device embeddings (MiniLM) and transcription (faster-whisper); only retrieved chunks hit the LLM.
+- Flask REST backend with per-answer source attribution.
+
+</details>
+
+**[Live Demo ↗](https://achalnawal2745-chatfusion.hf.space/)** · **[GitHub ↗](https://github.com/Achalnawal2745/chatfusion)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ PatchForge AI
+*4-agent autonomous DevSecOps pipeline*
+
+`React` `TypeScript` `Vite` `Python` `Gemini 2.5 Flash`
+
+Chains Developer → CyberSec Auditor → Auto-Patcher → Git Automator agents to turn a plain-language prompt into a security-reviewed, PR-ready commit.
+
+<details>
+<summary>See more</summary>
+<br>
+
+- Static-analysis auditor flags OWASP Top 10 / CWE vulnerabilities and auto-generates safe PoC exploits.
+- Maps findings to OWASP, SOC 2, GDPR, PCI-DSS and surfaces them in the final PR description.
+- Syntax-validation safety net requests a corrected fix from Gemini before anything is staged.
+
+</details>
+
+**[Live Demo ↗](https://patchforge-ai.vercel.app/)** · **[GitHub ↗](https://github.com/Achalnawal2745/patchforge-ai)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌊 FloatChat
+*ARGO Ocean Intelligence System*
+
+`Python` `FastAPI` `Streamlit` `PostgreSQL` `ChromaDB` `Gemini API` `NetCDF`
+
+Natural-language interface over global oceanographic float data — from raw NetCDF ingestion to conversational querying and dashboards.
+
+<details>
+<summary>See more</summary>
+<br>
+
+- Automated pipeline to download, ingest, and store ARGO NetCDF files into PostgreSQL with SQL-based validation.
+- FastAPI backend paired with Streamlit dashboards for interactive exploration.
+
+</details>
+
+**[GitHub ↗](https://github.com/Achalnawal2745)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✋ Hand Gesture Drawing Pad
+*Touch-free real-time drawing app*
+
+`Python` `OpenCV` `MediaPipe` `NumPy`
+
+Five-gesture recognition system (draw, erase, clear, resize brush, cursor mode) with dwell-click UI interaction — no mouse, no keyboard.
+
+<details>
+<summary>See more</summary>
+<br>
+
+- Dwell-click system: hovering a UI button for 1s triggers a click with a live progress-ring indicator.
+- 20-stroke undo stack, 6 selectable colors, full keyboard-shortcut parity.
+
+</details>
+
+**[GitHub ↗](https://github.com/Achalnawal2745)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 More on the Portfolio
+Every project above has deeper technical write-ups, architecture notes, and an interactive terminal you can actually type commands into.
+
+**[→ Explore the full portfolio](https://achalnawal2745.github.io/achal-portfolio/)**
+
+Try typing `skills`, `projects`, or `whoami` into the terminal on the site 👀
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -39,97 +229,66 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 
 ### 💻 Languages
 <br/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Python-b44fff?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-00ff9f?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C-00eaff?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/SQL-ff2d78?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/HTML5-b44fff?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-00eaff?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### 🧠 AI & Machine Learning
+### 🧠 GenAI & Machine Learning
 <br/>
-<img src="https://img.shields.io/badge/PyTorch-b44fff?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-00ff9f?style=for-the-badge&logo=tensorflow&logoColor=black" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Scikit--learn-00eaff?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/OpenCV-ff2d78?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/MediaPipe-b44fff?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-<img src="https://img.shields.io/badge/YOLOv8-00ff9f?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv8" />
-<img src="https://img.shields.io/badge/NetworkX-00eaff?style=for-the-badge&logo=graphql&logoColor=black" alt="NetworkX" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-6E56CF?style=for-the-badge&logo=databricks&logoColor=white" />
 
 ### ☁️ Cloud & AI Platforms
 <br/>
-<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" />
-<img src="https://img.shields.io/badge/Azure%20Document%20Intelligence-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Document Intelligence" />
-<img src="https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Service Bus" />
-<img src="https://img.shields.io/badge/Google%20Gemini%20API-b44fff?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
+<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Document%20Intelligence-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 
 ### ⚙️ Backend & Databases
 <br/>
-<img src="https://img.shields.io/badge/FastAPI-00ff9f?style=for-the-badge&logo=fastapi&logoColor=black" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Flask-b44fff?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/Node.js-00eaff?style=for-the-badge&logo=node.js&logoColor=black" alt="Node.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-ff2d78?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-b44fff?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/ChromaDB-00ff9f?style=for-the-badge&logo=databricks&logoColor=black" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
 
 ### 🛠️ Frameworks & Tools
 <br/>
-<img src="https://img.shields.io/badge/React-00ff9f?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Docker-00eaff?style=for-the-badge&logo=docker&logoColor=black" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-b44fff?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-ff2d78?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Postman-00ff9f?style=for-the-badge&logo=postman&logoColor=black" alt="Postman" />
-<img src="https://img.shields.io/badge/VSCode-00eaff?style=for-the-badge&logo=visual-studio-code&logoColor=black" alt="VSCode" />
-<img src="https://img.shields.io/badge/Google%20Colab-b44fff?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-<img src="https://img.shields.io/badge/Anaconda-00ff9f?style=for-the-badge&logo=anaconda&logoColor=black" alt="Anaconda" />
-<img src="https://img.shields.io/badge/Roboflow-00eaff?style=for-the-badge&logo=roboflow&logoColor=black" alt="Roboflow" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
 ---
 
-## 💼 Experience
+## 📄 Publications & Certifications
 
-### 🤖 AI Applications Development Intern | AmberFlux EdgeAI Pvt. Ltd.
-*May 2026 – Jul 2026*
-`Python` · `FastAPI` · `Azure OpenAI` · `Azure Document Intelligence` · `Azure Service Bus` · `NetworkX` · `RapidFuzz`
-- Developed AI-powered document extraction workflows using Azure Document Intelligence and GPT-based pipelines for automated engineering document processing.
-- Built components of a concurrent multi-threaded extraction pipeline to process PDFs, emails, and technical drawings.
-- Implemented FastAPI backend services and Azure Service Bus workflows for AI pipeline orchestration.
-- Contributed to an LLM-powered email classification and graph-based project matching system using NetworkX and RapidFuzz.
-
-### 🔬 AI/ML & Cybersecurity Research Intern | University of Queensland
-*Jul 2025 – Dec 2025*
-- Implemented adversarial training for the HAMMER multimodal deepfake detection model using a CNN-based generator to create image perturbations.
-- Improved model robustness by training on mixed clean and adversarial samples, evaluated via AUC, EER, and IoU metrics.
+| | |
+|---|---|
+| 📝 **Adv-HAMMER: Adversarially Robust Multimodal Fake Detection with Perturbation-Aware Training** | PP-MisDet @ CVPR 2026 — [View Paper ↗](https://openaccess.thecvf.com/content/CVPR2026W/PPMisDet/papers/Singh_Adv-HAMMER_Adversarially_Robust_Multimodal_Fake_Detection_with_Perturbation-Aware_Training_CVPRW_2026_paper.pdf) |
+| 🧑‍🏫 **Open Source Mentor** | GirlScript Summer of Code (GSSoC) 2025 |
+| 🎓 **Machine Learning with Python** | Coursera |
+| 🎓 **Data Structures and Algorithms in C++** | Udemy |
+| 🎓 **Introduction to Cybersecurity** | Cisco Networking Academy |
 
 ---
-
-## 🚀 Featured Projects
-
-### 🧩 ChatFusion — Multi-source RAG Knowledge Workspace
-[🚀 Live Demo](https://achalnawal2745-chatfusion.hf.space/)
-`Python` · `Flask` · `RAG` · `ChromaDB` · `Sentence Transformers` · `Whisper` · `Gemini API`
-- Built a multi-modal RAG system enabling conversational querying across YouTube videos, PDFs, and audio files.
-- Implemented cross-document and cross-modal retrieval with synthesis for unified reasoning over multiple sources.
-- Designed an end-to-end RAG pipeline using Sentence Transformers and ChromaDB for efficient semantic retrieval.
-- Built a Flask backend with REST APIs and an interactive frontend for document and workspace-based querying.
-
-### 🌊 FloatChat — ARGO Ocean Intelligence System
-`Python` · `FastAPI` · `Streamlit` · `PostgreSQL` · `ChromaDB` · `Gemini API` · `NetCDF`
-- Built an AI-powered conversational system for querying ARGO oceanographic float data using natural language.
-- Designed an automated pipeline to download, ingest, and store ARGO NetCDF files into PostgreSQL.
-- Developed a FastAPI backend and Streamlit frontend with PostgreSQL integration for interactive querying and visualization.
-
-### ✋ DrawPad — Hand Gesture Controlled Drawing App
-`Python` · `OpenCV` · `MediaPipe` · `Real-Time Computer Vision`
-- Built a real-time hand gesture–controlled drawing app using OpenCV and MediaPipe for webcam-based interaction.
-- Implemented multi-gesture recognition for drawing, erasing, cursor control, undo, and dynamic brush size.
-- Designed an interactive UI with gesture-based dwell clicking and keyboard shortcuts for touch-free control.
-
----
-
 
 ## 📊 GitHub Analytics
 
@@ -176,6 +335,7 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 
 <div align="center">
 
+<a href="https://achalnawal2745.github.io/achal-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/achal-nawal-102021286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=achalnawal2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="tel:+916367157965"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
