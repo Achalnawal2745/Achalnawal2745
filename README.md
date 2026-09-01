@@ -182,7 +182,7 @@ Natural-language interface over global oceanographic float data — from raw Net
 
 </details>
 
-**[GitHub ↗](https://github.com/Achalnawal2745)**
+**[GitHub ↗](https://github.com/Achalnawal2745/floatchat)**
 
 </td>
 </tr>
@@ -205,7 +205,7 @@ Five-gesture recognition system (draw, erase, clear, resize brush, cursor mode) 
 
 </details>
 
-**[GitHub ↗](https://github.com/Achalnawal2745)**
+**[GitHub ↗](https://github.com/Achalnawal2745/drawpad)**
 
 </td>
 <td width="50%" valign="top">
