@@ -48,8 +48,7 @@ I'm a Computer Engineering student at **Thapar Institute of Engineering and Tech
 👉 Full case studies, live demos, and an interactive terminal walkthrough of everything below live on my portfolio: **[achalnawal2745.github.io/achal-portfolio](https://achalnawal2745.github.io/achal-portfolio/)**
 
 ### ⚡ Quick Facts
-- 💼 **Currently:** AI Applications Development Intern @ **AmberFlux EdgeAI Pvt. Ltd.** (May 2026 – Jul 2026)
-- 🔬 **Past Experience:** AI/ML & Cybersecurity Research Intern @ **University of Queensland** (Jul 2025 – Dec 2025)
+- 🔬 **Past Experience:** AI Applications Development Intern @ **AmberFlux EdgeAI Pvt. Ltd.** (May 2026 – Jul 2026)
 - 📄 **Published:** Co-author, *Adv-HAMMER: Adversarially Robust Multimodal Fake Detection with Perturbation-Aware Training* — accepted at **PP-MisDet @ CVPR 2026**
 - 🧑‍🏫 **Open Source:** Mentor, GirlScript Summer of Code (GSSoC) 2025
 - 🎓 **Education:** B.E. Computer Engineering, Thapar Institute of Engineering and Technology (CGPA 8.6/10)
